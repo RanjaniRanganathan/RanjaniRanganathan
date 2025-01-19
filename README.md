@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ranjani Ranganathan!
+# Hi there 👋 I'm **Ranjani Ranganathan!**
 
 **Experienced Senior Financial Manager** who has transitioned into the **Data Analytics** field, with a passion for transforming financial insights through data. I specialize in using **Power BI**, **Excel**, **Python**, and **Oracle SQL** to deliver actionable insights and drive business decisions.
 
@@ -16,12 +16,40 @@
   - **Oracle SQL**, **Python**, **Excel**, **Power BI**
   - How I transitioned from **finance** to **data analytics**
 
-- 📫 How to reach me:
+- 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjani-ranganathan/)
+
 ---
 
-## 📂**Projects**
-## 🌟 Banking Product Recommendation System
+## 🛠 **Technical Skills & Tools**
+
+### **Programming & Scripting**
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
+
+### **Databases & Management**
+![Oracle](https://img.shields.io/badge/-Oracle%2011G-F80000?logo=Oracle&logoColor=white)
+
+### **Data Visualization**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black)  
+![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?logo=Microsoft-Excel&logoColor=white)
+
+---
+
+## 🔧 **Tools & Technologies**
+
+![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-4479A1?logo=Oracle&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?logo=Microsoft-Excel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 **Projects**
+
+### 🌟 **Banking Product Recommendation System**
 
 **Overview**:
 - **A powerful, data-driven solution** designed to recommend banking products based on customer requirements, preferences, and risk tolerance.
@@ -39,8 +67,9 @@
 - 📈 Boosted engagement by improving data-driven decision-making.
 - ⚡ Automated workflows to reduce manual efforts and save time.
 
+---
 
-## 🌟 Global Sales Performance Dashboard
+### 🌟 **Global Sales Performance Dashboard**
 
 **Overview**:
 - **An interactive Power BI dashboard** designed to analyze and visualize global sales data for strategic insights.
@@ -66,21 +95,24 @@
 
 ---
 
-## 🛠 I code in:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+## 🛠 **I code in:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 🔧 Tools I Use:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🎓 **Education**  
 
+- 🎓 *Bachelor of Computer Science*  
+  Jaya College of Arts & Science, 2015  
 
+- 🖥 *MBA in Financial Management*  
+  Madras University, 2021  
+
+- 📜 *Certified Data Analyst Course*  
+  Besant Technologies, 2024
+
+---
 

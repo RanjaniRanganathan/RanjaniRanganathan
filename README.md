@@ -18,9 +18,52 @@
 
 - 📫 How to reach me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjani-ranganathan/)
+---
 
-- ## ⚡ Fun fact:
-📸 Follow us on Instagram: [@krithvik_universe](https://www.instagram.com/krithvik_universe/)!
+## 📂**Projects**
+## 🌟 Banking Product Recommendation System
+
+**Overview**:
+- **A powerful, data-driven solution** designed to recommend banking products based on customer requirements, preferences, and risk tolerance.
+- Provides tailored financial product suggestions like Fixed Deposits, Mutual Funds, and Insurance Plans.
+
+**Key Features**:
+- 🔍 **Customer Profiling**: Analyzed customer data to determine risk tolerance and investment preferences using Oracle SQL queries.
+- 🧠 **Product Recommendation Engine**: Developed a logic-based Python engine to match customers with suitable products.
+- 📊 **Data Visualizations**: Created insightful bar charts to visualize customer preferences using `matplotlib`.
+- 📄 **Automated Report Generation**: Exported personalized recommendations to Excel using `pandas`.
+- 🗄 **Optimized Database Design**: Designed normalized tables for efficient queries.
+
+**Impact**:
+- 🚀 Enhanced customer satisfaction with tailored recommendations.
+- 📈 Boosted engagement by improving data-driven decision-making.
+- ⚡ Automated workflows to reduce manual efforts and save time.
+
+
+## 🌟 Global Sales Performance Dashboard
+
+**Overview**:
+- **An interactive Power BI dashboard** designed to analyze and visualize global sales data for strategic insights.
+- Empowers stakeholders to make **data-driven decisions** by presenting sales trends, regional performance, and product insights.
+
+**Key Features**:
+- 🎯 **Dynamic Slicers**: Enabled filtering of data by year, quarter, region, and rank levels for tailored analysis.
+- 📊 **Advanced Visualizations**:
+  - Revenue distribution by region and product.
+  - Monthly revenue trends for in-depth performance tracking.
+  - Top-performing sales representatives and regions.
+- 🛠 **Custom DAX Measures**: Built advanced calculations for:
+  - Total revenue.
+  - Revenue contribution percentages.
+  - Product rankings.
+- ✨ **Interactive Tooltips**: Hover to view detailed insights, such as product-wise revenue breakdown.
+- 📂 **Data Source Management**: Integrated sales data from Excel into Power BI for seamless data handling.
+
+**Impact**:
+- 📈 **Improved strategic decision-making** by identifying top-performing regions and sales trends.
+- 🔎 Simplified complex datasets into intuitive, interactive dashboards for easy interpretation.
+- ⚡ Accelerated analysis time, enabling stakeholders to focus on actionable insights.
+
 ---
 
 ## 🛠 I code in:
